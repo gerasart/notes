@@ -66,7 +66,7 @@
             </div>
         </div>
         <div class="pagination">
-            <a-pagination v-if="paginate.total" @change="onChangePagination" v-model="paginate.current" :defaultPageSize="2" :total="paginate.total" show-less-items />
+            <a-pagination v-if="paginate.total" @change="onChangePagination" v-model="paginate.current" :defaultPageSize="paginate.per_page" :total="paginate.total" show-less-items />
         </div>
 
     </div>
