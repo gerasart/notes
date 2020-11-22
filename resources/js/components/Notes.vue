@@ -66,7 +66,11 @@
             </div>
         </div>
         <div class="pagination">
-            <a-pagination v-if="paginate.total" @change="onChangePagination" v-model="paginate.current" :defaultPageSize="paginate.per_page" :total="paginate.total" show-less-items />
+            <a-pagination v-if="paginate.total"
+                          @change="onChangePagination"
+                          v-model="paginate.current"
+                          :defaultPageSize="paginate.per_page"
+                          :total="paginate.total" show-less-items />
         </div>
 
     </div>
@@ -115,7 +119,7 @@ export default {
         getNotes(pag = false) {
             let url = '/get-notes';
             if (pag) {
-                url = '/get-notes?page='+pag;
+                url = '/get-notes?page=' + pag;
             }
             axios.post(url
             ).then((e) => {
