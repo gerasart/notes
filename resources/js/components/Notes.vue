@@ -75,7 +75,6 @@
 <script>
 import axios from 'axios';
 
-
 export default {
     name: "Notes",
     data() {
@@ -124,7 +123,7 @@ export default {
                 if (e.status === 200) {
                     this.notes = e.data.data.data;
                     this.paginate.current = e.data.data.current_page;
-                    this.paginate.per_page = e.data.data.current_page;
+                    this.paginate.per_page = e.data.data.per_page;
                     this.paginate.total = e.data.data.total;
                     console.log(this.notes);
                 }

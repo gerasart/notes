@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e67fd25-7c71-433b-aa61-42896e05d301" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/Notes.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Notes.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +199,7 @@
       <updated>1605825753378</updated>
       <workItem from="1605825754824" duration="12240000" />
       <workItem from="1605881062071" duration="7343000" />
-      <workItem from="1606068949953" duration="203000" />
+      <workItem from="1606068949953" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="add ignore">
       <created>1606068979807</created>
@@ -241,10 +243,10 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1454" height="267" key="GridCell.Tab.0.right/0.0.2560.1050@0.0.2560.1050" timestamp="1606066060752" />
-    <state x="349" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606069117567">
+    <state x="349" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606069170560">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state x="349" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1050@0.0.2560.1050" timestamp="1606069117567" />
+    <state x="349" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1050@0.0.2560.1050" timestamp="1606069170560" />
     <state x="351" y="252" width="577" height="552" key="find.popup" timestamp="1605874684602">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
