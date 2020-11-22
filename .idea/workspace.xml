@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e67fd25-7c71-433b-aa61-42896e05d301" name="Default Changelist" comment="" />
+    <list default="true" id="7e67fd25-7c71-433b-aa61-42896e05d301" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Notes.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Notes.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,9 @@
         <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -128,6 +133,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kWoXzh7Sy8mp0BUzl6WkxSqbW2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -191,13 +197,30 @@
       <updated>1605825753378</updated>
       <workItem from="1605825754824" duration="12240000" />
       <workItem from="1605881062071" duration="7343000" />
+      <workItem from="1606068949953" duration="127000" />
     </task>
+    <task id="LOCAL-00001" summary="add ignore">
+      <created>1606068979807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606068979807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ignore" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="389" y="17" key="CommitChangelistDialog2" timestamp="1606068979186">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="389" y="17" key="CommitChangelistDialog2/0.0.2560.1050@0.0.2560.1050" timestamp="1606068979186" />
     <state x="420" y="283" key="FileChooserDialogImpl" timestamp="1605874721504">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
@@ -218,6 +241,10 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1454" height="267" key="GridCell.Tab.0.right/0.0.2560.1050@0.0.2560.1050" timestamp="1606066060752" />
+    <state x="349" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606068983217">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="349" y="254" key="Vcs.Push.Dialog.v2/0.0.2560.1050@0.0.2560.1050" timestamp="1606068983217" />
     <state x="351" y="252" width="577" height="552" key="find.popup" timestamp="1605874684602">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>

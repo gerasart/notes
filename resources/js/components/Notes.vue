@@ -113,7 +113,7 @@ export default {
             reader.addEventListener('load', () => callback(reader.result));
             reader.readAsDataURL(img);
         },
-        getNotes(pag) {
+        getNotes(pag = false) {
             let url = '/get-notes';
             if (pag) {
                 url = '/get-notes?page='+pag;
